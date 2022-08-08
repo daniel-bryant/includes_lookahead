@@ -1,0 +1,71 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+star_wars:
+  studio: lucas
+  name: Star Wars
+  release_date: 1977-05-25
+
+empire:
+  studio: lucas
+  name: The Empire Strikes Back
+  release_date: 1980-05-21
+
+jedi:
+  studio: lucas
+  name: Return of the Jedi
+  release_date: 1983-05-25
+
+phantom:
+  studio: lucas
+  name: The Phantom Menace
+  release_date: 1999-05-19
+
+clones:
+  studio: lucas
+  name: Attack of the Clones
+  release_date: 2002-05-16
+
+sith:
+  studio: lucas
+  name: Revenge of the Sith
+  release_date: 2005-05-19
+
+force:
+  studio: lucas
+  name: The Force Awakens
+  release_date: 2015-12-18
+
+last:
+  studio: lucas
+  name: The Last Jedi
+  release_date: 2017-12-15
+
+rise:
+  studio: lucas
+  name: The Rise of Skywalker
+  release_date: 2019-12-20
+
+predator:
+  studio: fox
+  name: Predator
+  release_date: 1987-06-12
+
+predator_2:
+  studio: fox
+  name: Predator 2
+  release_date: 1990-11-21
+
+predators:
+  studio: fox
+  name: Predators
+  release_date: 2010-07-09
+
+the_predator:
+  studio: fox
+  name: The Predator
+  release_date: 2018-09-14
+
+prey:
+  studio: fox
+  name: Prey
+  release_date: 2022-08-05
