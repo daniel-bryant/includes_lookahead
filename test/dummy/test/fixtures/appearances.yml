@@ -1,0 +1,91 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  film: star_wars
+  role: luke_skywalker
+  actor: mark_hamill
+  position: 1
+
+two:
+  film: star_wars
+  role: han_solo
+  actor: harrison_ford
+  position: 2
+
+three:
+  film: star_wars
+  role: princess_leia
+  actor: carrie_fisher
+  position: 3
+
+four:
+  film: empire
+  role: luke_skywalker
+  actor: mark_hamill
+  position: 1
+
+five:
+  film: empire
+  role: han_solo
+  actor: harrison_ford
+  position: 2
+
+six:
+  film: empire
+  role: princess_leia
+  actor: carrie_fisher
+  position: 3
+
+seven:
+  film: jedi
+  role: luke_skywalker
+  actor: mark_hamill
+  position: 1
+
+eight:
+  film: jedi
+  role: han_solo
+  actor: harrison_ford
+  position: 2
+
+nine:
+  film: jedi
+  role: princess_leia
+  actor: carrie_fisher
+  position: 3
+
+ten:
+  film: predator
+  role: dutch
+  actor: arnold_schwarzenegger
+  position: 1
+
+eleven:
+  film: predator
+  role: dillon
+  actor: carl_weathers
+  position: 2
+
+twelve:
+  film: predator
+  role: gonsalves
+  actor: elpidia_carrillo
+  position: 3
+
+thirteen:
+  film: predator_2
+  role: harrigan
+  actor: danny_glover
+  position: 1
+
+fourteen:
+  film: predator_2
+  role: city
+  actor: kevin_peter_hall
+  position: 2
+
+fifteen:
+  film: predator_2
+  role: keyes
+  actor: gary_busey
+  position: 3

@@ -1,0 +1,28 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+luke_skywalker:
+  name: Luke Skywalker
+
+han_solo:
+  name: Han Solo
+
+princess_leia:
+  name: Princess Leia Organa
+
+dutch:
+  name: 'Major Alan "Dutch" Schaefer'
+
+dillon:
+  name: Al Dillon
+
+gonsalves:
+  name: Anna Gonsalves
+
+harrigan:
+  name: Lieutenant Mike Harrigan
+
+city:
+  name: City Hunter / The Predator
+
+keyes:
+  name: Special Agent Peter Keyes

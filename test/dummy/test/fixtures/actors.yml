@@ -1,0 +1,28 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+mark_hamill:
+  name: Mark Hamill
+
+harrison_ford:
+  name: Harrison Ford
+
+carrie_fisher:
+  name: Carrie Fisher
+
+arnold_schwarzenegger:
+  name: Arnold Schwarzenegger
+
+carl_weathers:
+  name: Carl Weathers
+
+elpidia_carrillo:
+  name: Elpidia Carrillo
+
+danny_glover:
+  name: Danny Glover
+
+kevin_peter_hall:
+  name: Kevin Peter Hall
+
+gary_busey:
+  name: Gary Busey
